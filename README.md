@@ -1,0 +1,1 @@
+Hi Guys! This is a project that I worked on for a bit while exploring maze generation. I implemented DFS recursion to randomly generate the maze, and used python libraries like matplotlib and numpy to print them.
